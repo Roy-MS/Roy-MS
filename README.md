@@ -46,6 +46,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Roy-MS/Roy-MS/snake-output/snake.svg" alt="Snake animation" />
-
 ###
